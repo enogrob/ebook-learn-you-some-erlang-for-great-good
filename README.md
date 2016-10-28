@@ -12,14 +12,14 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 Table of Contents
 
-[ ] Foreword by Joe Armstrong
-[ ] Introduction
-[ ] 
-[ ] Chapter 1: Starting Out
-[ ] Chapter 2: Modules
-[ ] Chapter 3: Syntax in Functions
-[ ] Chapter 4: Types (or Lack Therof)
-[ ] Chapter 5: Hello Recursion!
+[x] Foreword by Joe Armstrong
+[x] Introduction
+ 
+[x] Chapter 1: Starting Out
+[x] Chapter 2: Modules
+[x] Chapter 3: Syntax in Functions
+[x] Chapter 4: Types (or Lack Therof)
+[x] Chapter 5: Hello Recursion!
 [ ] Chapter 6: Higher-Order Functions
 [ ] Chapter 7: Errors and Exceptions
 [ ] Chapter 8: Functionally Solving Problems
