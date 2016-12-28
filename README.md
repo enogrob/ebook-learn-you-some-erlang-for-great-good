@@ -3,9 +3,11 @@ Roberto Nogueira  BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
 
-![ebook cover](images/learn-you-some-erlang-for-great-good.png)`
+![ebook cover](images/learn-you-some-erlang-for-great-good.png)
 
 # Learn You Some Erlang for Great Good
+
+[ebook](ebook-learn-you-some-erlang-for-great-good.pdf)
 
 ## Contents
 
@@ -14,12 +16,12 @@ Table of Contents
 
 [x] Foreword by Joe Armstrong
 [x] Introduction
- 
+
 [x] Chapter 1: Starting Out
-[x] Chapter 2: Modules
-[x] Chapter 3: Syntax in Functions
-[x] Chapter 4: Types (or Lack Therof)
-[x] Chapter 5: Hello Recursion!
+[ ] Chapter 2: Modules
+[ ] Chapter 3: Syntax in Functions
+[ ] Chapter 4: Types (or Lack Therof)
+[ ] Chapter 5: Hello Recursion!
 [ ] Chapter 6: Higher-Order Functions
 [ ] Chapter 7: Errors and Exceptions
 [ ] Chapter 8: Functionally Solving Problems
@@ -45,7 +47,7 @@ Table of Contents
 [ ] Chapter 28: Common Test for Uncommon Tests
 [ ] Chapter 29: Mnesia and the Art of Remembering
 [ ] Chapter 30: Type Specifications and Dialyzer
-[ ] 
+[ ]
 [ ] Afterword
 [ ] Appendix: On Erlang's Syntax
 Index
