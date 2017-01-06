@@ -19,7 +19,7 @@ Table of Contents
 
 [x] Chapter 1: Starting Out
 [x] Chapter 2: Modules
-[ ] Chapter 3: Syntax in Functions
+[x] Chapter 3: Syntax in Functions
 [ ] Chapter 4: Types (or Lack Therof)
 [ ] Chapter 5: Hello Recursion!
 [ ] Chapter 6: Higher-Order Functions
