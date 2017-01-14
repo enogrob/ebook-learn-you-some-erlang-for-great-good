@@ -21,7 +21,7 @@ Table of Contents
 [x] Chapter 2: Modules
 [x] Chapter 3: Syntax in Functions
 [x] Chapter 4: Types (or Lack Therof)
-[ ] Chapter 5: Hello Recursion!
+[~] Chapter 5: Hello Recursion! (upto How Recursion Works)
 [ ] Chapter 6: Higher-Order Functions
 [ ] Chapter 7: Errors and Exceptions
 [ ] Chapter 8: Functionally Solving Problems
