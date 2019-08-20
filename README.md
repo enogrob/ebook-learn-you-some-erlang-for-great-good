@@ -24,10 +24,15 @@ Chapter 1: Starting Out
 [x] Boolean Algebra and Comparison Operators
 [x] Tuples
 [x] Lists
-[ ] List Comprehensions
-[ ] Bit Syntax
-[ ] Binary Comprehensions
+[x] List Comprehensions
+[x] Bit Syntax
+[x] Binary Comprehensions
 Chapter 2: Modules
+[x] What are Modules?
+[x] Creating Modules
+[x] Compiling Code
+[ ] Defining Macros
+[ ] More About Modules
 Chapter 3: Syntax in Functions
 Chapter 4: Types (or Lack Therof)
 Chapter 5: Hello Recursion! (upto How Recursion Works)
